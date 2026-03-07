@@ -86,17 +86,7 @@ npm run dev
 NEXT_PUBLIC_API_URL=http://localhost:5000/api/v1
 ```
 
----
-
-### Demo Login
-
-After seeding, log in with:
-```
-Email:    demo@financetracker.io
-Password: demo1234
-```
-
----
+--
 
 ## ✨ Features
 
