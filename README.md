@@ -1,6 +1,6 @@
 # 💰 FinanceTracker
 
-Full-stack personal finance tracker — **Next.js 14 frontend** + **Node.js / Express backend** + **Supabase (PostgreSQL) database**.
+Full-stack personal finance tracker — **Next.js 14 frontend** + **Node.js / Express backend** + **Supabase (PostgreSQL) database**!.
 
 ---
 
